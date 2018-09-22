@@ -12,9 +12,11 @@
     * [Atom Flight Manual](https://flight-manual.atom.io/)
 1. Writing an Atom Package
     * [Hacking Atom](https://flight-manual.atom.io/hacking-atom/) (I think I can, can I?)
-    * [atom/about](https://github.com/atom/about/tree/master/lib) (this is a standard plugin)
+    * [atom/about](https://github.com/atom/about/tree/master/lib) (this is a standard package)
     * [First Atom Plugin](https://blog.github.com/2016-08-19-building-your-first-atom-plugin/) (this looks hard to do)
 1. Code Modeling
     * [UML - Wikipedia](https://en.wikipedia.org/wiki/UML_tool)
     * [Java-to-UML Tool](https://github.com/shubhamvadhera/uml-parser) (neat hack? or something else?)
     * [*Many* Words on "What is UML" (2005)](http://www.uml.org/what-is-uml.htm)
+
+The thought that's bouncing around in my skull is *just how cool it would be* if I could pull up an interesting repository from GitHub and play the `git log` output from the beginning to the current state, by cycling through "diffs in place" in the editor, or through generated UML diagrams, as they evolved over the course of development/many commits.
