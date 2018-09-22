@@ -25,4 +25,4 @@
 
 [more]: The thought that's bouncing around in my skull is *just how cool it would be* if I could pull up an interesting repository from GitHub and play the `git log` output from the beginning to the current state, by cycling through "diffs in place" in the editor, or through generated UML diagrams, as they evolved over the course of development/many commits.
 
-I can promise a certain number of minimum hours to the App Team's projects, and I am here to learn and explore, and to help make something I'm proud to show.
+I can promise a certain number of minimum hours to the App Team's projects, and I am here to learn and explore, and hopefully to help make something I can show to potential employers.
