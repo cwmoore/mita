@@ -1,12 +1,12 @@
 # Links
 ### Some first links
 1. GitHub
-    * This following link is an introduction to GitHub in a conversational tone. (**Not** just for girls.)
+    * This following is a friendly introduction to GitHub in a conversational tone.
     * [What is this “GitHub” of which you all speak?](https://code.likeagirl.io/what-is-this-github-of-which-you-all-speak-85de7de36cdf) (Beginning)
 2. Markdown
     * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (how I made this page)
 2. Coding
-    * Just starting? The rest of this page is not what you need. I'm still organizing my thoughts about where to go next with MITA.[more below links]
+    * Just starting? The rest of this page is not what you need. I'm still organizing my thoughts about where to go next with MITA. [more]
     * [Coding Maxims](https://gist.github.com/lyoshenka/0a43205aa9a072b196ff87e2c689a8b9)
     * [The Pragmatic Programmer (book)(1999)](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 3. Know Your Tools
