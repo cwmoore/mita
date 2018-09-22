@@ -3,6 +3,7 @@
 1. GitHub
     * This following is a friendly introduction to GitHub in a conversational tone.
     * [What is this “GitHub” of which you all speak?](https://code.likeagirl.io/what-is-this-github-of-which-you-all-speak-85de7de36cdf) (Beginning)
+    * [Starting@GitHub](https://github.com/cwmoore/hello-world/blob/master/LINKS.md)
 2. Markdown
     * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (how I made this page)
 2. Coding
@@ -10,7 +11,6 @@
     * [Coding Maxims](https://gist.github.com/lyoshenka/0a43205aa9a072b196ff87e2c689a8b9)
     * [The Pragmatic Programmer (book)(1999)](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 3. Know Your Tools
-    * [Starting@GitHub](https://github.com/cwmoore/hello-world/blob/master/LINKS.md)
     * [Atom Flight Manual](https://flight-manual.atom.io/)
 1. Writing an Atom Package
     * [Hacking Atom](https://flight-manual.atom.io/hacking-atom/) (I think I can, can I?)
