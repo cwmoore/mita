@@ -15,3 +15,4 @@
 1. Code Modeling
     * [UML - Wikipedia](https://en.wikipedia.org/wiki/UML_tool)
     * [Java-to-UML Tool](https://github.com/shubhamvadhera/uml-parser) (neat hack? or something else?)
+    * [*Many* Words on "What is UML"](http://www.uml.org/what-is-uml.htm)
