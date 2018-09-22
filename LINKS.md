@@ -7,8 +7,8 @@
     * [The Pragmatic Programmer (book)](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 3. Know Your Tools
     * [Hacking Atom](https://flight-manual.atom.io/hacking-atom/) (I think I can, can I?)
-    * [First Atom Plugin](https://blog.github.com/2016-08-19-building-your-first-atom-plugin/) (this looks hard)
     * [Atom](https://github.com/atom/about/blob/master/lib/main.js) (this looks hard)
+    * [First Atom Plugin](https://blog.github.com/2016-08-19-building-your-first-atom-plugin/) (this looks hard)
 1. Code Modeling
-    * https://en.wikipedia.org/wiki/UML_tool ()
+    * [UML - Wikipedia](https://en.wikipedia.org/wiki/UML_tool)
     * [Java-to-UML Tool](https://github.com/shubhamvadhera/uml-parser) (neat hack? or something else?)
