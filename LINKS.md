@@ -1,10 +1,12 @@
 # Links
 ### Some first links
 1. GitHub
+    * This following link is an introduction to GitHub in a conversational tone. (**Not** just for girls.)
     * [What is this “GitHub” of which you all speak?](https://code.likeagirl.io/what-is-this-github-of-which-you-all-speak-85de7de36cdf) (Beginning)
 2. Coding
+    * Just starting? The rest of this page is not what you need. I'm still organizing my thoughts about where to go next with MITA.
     * [Coding Maxims](https://gist.github.com/lyoshenka/0a43205aa9a072b196ff87e2c689a8b9)
-    * [The Pragmatic Programmer (book)](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+    * [The Pragmatic Programmer (book)(1999)](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 3. Know Your Tools
     * [Starting@GitHub](https://github.com/cwmoore/hello-world/blob/master/LINKS.md)
     * [Atom Flight Manual](https://flight-manual.atom.io/)
@@ -15,4 +17,4 @@
 1. Code Modeling
     * [UML - Wikipedia](https://en.wikipedia.org/wiki/UML_tool)
     * [Java-to-UML Tool](https://github.com/shubhamvadhera/uml-parser) (neat hack? or something else?)
-    * [*Many* Words on "What is UML"](http://www.uml.org/what-is-uml.htm)
+    * [*Many* Words on "What is UML" (2005)](http://www.uml.org/what-is-uml.htm)
