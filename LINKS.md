@@ -3,8 +3,10 @@
 1. GitHub
     * This following link is an introduction to GitHub in a conversational tone. (**Not** just for girls.)
     * [What is this “GitHub” of which you all speak?](https://code.likeagirl.io/what-is-this-github-of-which-you-all-speak-85de7de36cdf) (Beginning)
+2. Markdown
+    * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (how I made this page)
 2. Coding
-    * Just starting? The rest of this page is not what you need. I'm still organizing my thoughts about where to go next with MITA.
+    * Just starting? The rest of this page is not what you need. I'm still organizing my thoughts about where to go next with MITA.[1]
     * [Coding Maxims](https://gist.github.com/lyoshenka/0a43205aa9a072b196ff87e2c689a8b9)
     * [The Pragmatic Programmer (book)(1999)](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 3. Know Your Tools
@@ -19,4 +21,7 @@
     * [Java-to-UML Tool](https://github.com/shubhamvadhera/uml-parser) (neat hack? or something else?)
     * [*Many* Words on "What is UML" (2005)](http://www.uml.org/what-is-uml.htm)
 
-The thought that's bouncing around in my skull is *just how cool it would be* if I could pull up an interesting repository from GitHub and play the `git log` output from the beginning to the current state, by cycling through "diffs in place" in the editor, or through generated UML diagrams, as they evolved over the course of development/many commits.
+
+[1] The thought that's bouncing around in my skull is *just how cool it would be* if I could pull up an interesting repository from GitHub and play the `git log` output from the beginning to the current state, by cycling through "diffs in place" in the editor, or through generated UML diagrams, as they evolved over the course of development/many commits.
+
+I can promise a certain number of minimum hours to the App Team's projects, and I am here to learn and explore.
